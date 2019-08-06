@@ -1,2 +1,7 @@
 我是改变1
+<<<<<<< HEAD
 我是develop的改动
+=======
+我是new feature的改变
+我是new feature的改变  第二个
+>>>>>>> new
